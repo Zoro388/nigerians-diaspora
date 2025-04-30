@@ -32,7 +32,7 @@ const About = () => {
           <h2
             data-aos="flip-right"
             className="text-3xl md:text-4xl font-bold text-center text-green-600 mb-8">
-            About Us COMING
+            About Us
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
             <div className="space-y-6" data-aos="fade-up">
